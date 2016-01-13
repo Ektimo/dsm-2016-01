@@ -2,4 +2,4 @@
 
 Here you will find a presented jupyter notebooks.
 
-The dataset was taken from [Machine Learning Repository](http://mlr.cs.umass.edu/ml/datasets/Bank+Marketing)
+The dataset was taken from [Machine Learning Repository](http://mlr.cs.umass.edu/ml/datasets/Bank+Marketing).
